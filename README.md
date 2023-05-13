@@ -1,6 +1,4 @@
-## NOTE: The contents of this repo has been moved to [https://github.com/mrdoob/three.js/tree/dev/manual](https://github.com/mrdoob/three.js/tree/dev/manual)
 
-```
 
 
 
